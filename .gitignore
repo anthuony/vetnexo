@@ -1,0 +1,9 @@
+app/config/env.php
+app/_private/*
+!app/_private/.htaccess
+app/backups/*
+!app/backups/.htaccess
+app/uploads/*
+!app/uploads/.htaccess
+*.log
+*.DS_Store

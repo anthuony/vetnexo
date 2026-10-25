@@ -1,0 +1,7 @@
+VETNEXO — LOCAL PROTOTYPE
+Requirements: Apache 2.4, PHP 8.1+ and MySQL 8 / MariaDB 10.6+.
+1. Copy into the Apache document root.
+2. Configure config/env.php using config/env.example.php and a new empty database.
+3. Review the structure-only SQL and installer.
+4. Open /vetnexo/instalar.php from localhost and create a new admin.
+No original client records are included. Do not use real data in a public demo. See README.md.

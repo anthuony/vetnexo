@@ -1,0 +1,5 @@
+<?php
+require_once '../config/bcv.php'; require_once __DIR__ . '/../config/bootstrap.php';?><!doctype html><html lang="es"><head>
+<?php if(function_exists('av_head')) av_head(); ?><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Contacto - VetNexo</title><style>body{font-family:Arial;margin:0;background:#f6f8f6;color:#25352d}.w{max-width:900px;margin:36px auto;padding:18px}.c{background:#fff;padding:28px;border-radius:15px;box-shadow:0 8px 28px #0001}a{color:#0f6c33}.btn{display:inline-block;background:#0f6c33;color:#fff;text-decoration:none;padding:10px 15px;border-radius:8px}</style>    <link rel="stylesheet" href="../css/app-optimized.css?v=20260812c">
+</head><body><div class="w"><div class="c"><h1>Contacto</h1><p>Para consultas sobre productos, disponibilidad, pedidos o retiro, comuníquese directamente con VetNexo mediante los canales oficiales publicados por la clínica.</p><p>Si ya tiene una cuenta, también puede revisar sus pedidos desde su panel de cliente.</p><a class="btn" href="index.php">Volver a la tienda</a></div></div><?php echo bcv_badge_html(); ?>
+</body></html>
