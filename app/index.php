@@ -33,7 +33,7 @@ if (isset($_SESSION['user_id']) && isset($_SESSION['rol'])) {
     <meta name="robots" content="index, follow">
     
     <!-- Favicon - Usando el logo real -->
-    <link rel="icon" type="image/png" href="includes/img/logo.svg">
+    <link rel="icon" type="image/svg+xml" href="includes/img/logo.svg">
     <link rel="apple-touch-icon" href="includes/img/logo.svg">
     <link rel="shortcut icon" href="includes/img/logo.svg" type="image/x-icon">
     

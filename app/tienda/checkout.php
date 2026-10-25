@@ -146,7 +146,7 @@ $csrf_token = $_SESSION['csrf_token'];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>💰 Finalizar Compra - VetNexo</title>
-    <link rel="icon" type="image/png" href="../includes/img/logo.svg">
+    <link rel="icon" type="image/svg+xml" href="../includes/img/logo.svg">
     
     <link href='../assets/vendor/boxicons/css/boxicons.min.css' rel='stylesheet'>
     <style>

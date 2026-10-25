@@ -175,7 +175,7 @@ function getRolTexto($rol) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ganancias de Fumigación - VetNexo</title>
-    <link rel="icon" type="image/png" href="../includes/img/logo.svg">
+    <link rel="icon" type="image/svg+xml" href="../includes/img/logo.svg">
     
     <link href='../assets/vendor/boxicons/css/boxicons.min.css' rel='stylesheet'>
     <!-- Incluir las bibliotecas para PDF -->
